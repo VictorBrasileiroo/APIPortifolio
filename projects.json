@@ -6,7 +6,7 @@
         "technologies": ["JavaScript", "CSS", "HTML", "Sass"],
         "github": "https://github.com/VictorBrasileiroo/BlueBank",
         "demo": "https://victorbrasileiroo.github.io/BlueBank/",
-        "image": "https://linkdaimagem.com/imagem1.png"
+        "image": "https://github.com/VictorBrasileiroo/APIPortifolio/blob/main/assets/id-1/img.svg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "technologies": ["React", "CSS", "Sass", "Figma"],
         "github": "https://github.com/VictorBrasileiroo/MyPortifolio/",
         "demo": "https://victorbrasileiroo.github.io/MyPortifolio/",
-        "image": "https://linkdaimagem.com/imagem2.png"
+        "image": "https://github.com/VictorBrasileiroo/APIPortifolio/blob/main/assets/id-2/img.svg"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "technologies": ["JavaScript", "CSS", "HTML"],
         "github": "https://github.com/VictorBrasileiroo/FitFinder",
         "demo": "https://victorbrasileiroo.github.io/FitFinder/",
-        "image": "https://linkdaimagem.com/imagem3.png"
+        "image": "https://github.com/VictorBrasileiroo/APIPortifolio/blob/main/assets/id-3/img.svg"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "technologies": ["JavaScript", "CSS", "HTML"],
         "github": "https://github.com/VictorBrasileiroo/WeatherWatch",
         "demo": "https://victorbrasileiroo.github.io/WeatherWatch/",
-        "image": "https://linkdaimagem.com/imagem4.png"
+        "image": "https://github.com/VictorBrasileiroo/APIPortifolio/blob/main/assets/id-4/img.svg"
     },
     {
         "id": 5,
@@ -42,6 +42,6 @@
         "technologies": ["React", "Tailwind CSS"],
         "github": "https://github.com/VictorBrasileiroo/LoginScreen",
         "demo": "https://victorbrasileiroo.github.io/LoginScreen/",
-        "image": "https://linkdaimagem.com/imagem5.png"
+        "image": "https://github.com/VictorBrasileiroo/APIPortifolio/blob/main/assets/id-5/img.svg"
     }
 ]
