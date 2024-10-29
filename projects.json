@@ -3,7 +3,24 @@
         "id": 1,
         "title": "BlueBank",
         "description": "BlueBank é um projeto de site para um banco digital fictício. O site oferece informações sobre os serviços do banco, como conta digital, cartões, transferências, e suporte ao cliente. Este repositório contém o código-fonte do site, desenvolvido com HTML, CSS e JavaScript.",
-        "technologies": ["JavaScript", "CSS", "HTML", "Sass"],
+        "technologies": [
+            {
+                "name": "JavaScript",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+            },
+            {
+                "name": "CSS",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"
+            },
+            {
+                "name": "HTML",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
+            },
+            {
+                "name": "Sass",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            }
+        ],
         "github": "https://github.com/VictorBrasileiroo/BlueBank",
         "demo": "https://victorbrasileiroo.github.io/BlueBank/",
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-1/img.svg"
@@ -12,7 +29,24 @@
         "id": 2,
         "title": "My Portifolio 1.0",
         "description": "Esse Projeto é um portfólio pessoal e foi desenvolvido em React, utilizando Sass para uma estilização modular e eficiente, com o design previamente planejado no Figma. A estrutura do projeto é baseada nos principais pilares da web: HTML, CSS e JavaScript, garantindo uma interface moderna, responsiva e de fácil navegação, com foco na apresentação de habilidades e projetos de forma dinâmica e atraente.",
-        "technologies": ["React", "CSS", "Sass", "Figma"],
+        "technologies": [
+            {
+                "name": "React",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            },
+            {
+                "name": "CSS",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"
+            },
+            {
+                "name": "Sass",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            },
+            {
+                "name": "Figma",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-plain.svg"
+            }
+        ],
         "github": "https://github.com/VictorBrasileiroo/MyPortifolio/",
         "demo": "https://victorbrasileiroo.github.io/MyPortifolio/",
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-2/img.svg"
@@ -21,7 +55,17 @@
         "id": 3,
         "title": "FitFinder",
         "description": "FitFinder é uma aplicação web projetada para facilitar a busca por exercícios físicos. Através da integração com uma API de exercícios, ela oferece uma lista personalizada de atividades com base nos filtros selecionados pelo usuário, garantindo uma experiência de pesquisa eficiente e direcionada às suas necessidades.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
+        "technologies": [
+            {
+                "name": "React",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            },
+            {
+                "name": "Sass",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            }
+            
+        ],
         "github": "https://github.com/VictorBrasileiroo/FitFinder",
         "demo": "https://victorbrasileiroo.github.io/FitFinder/",
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-3/img.svg"
@@ -30,7 +74,20 @@
         "id": 4,
         "title": "Weather Watch",
         "description": "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições, promises, AJAX e Axios, entre outros. Desenvolvido exclusivamente para fins educativos, visa proporcionar uma compreensão prática e aplicada dessas ferramentas e técnicas.",
-        "technologies": ["JavaScript", "CSS", "HTML"],
+        "technologies": [
+            {
+                "name": "JavaScript",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+            },
+            {
+                "name": "CSS",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"
+            },
+            {
+                "name": "HTML",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"
+            }
+        ],
         "github": "https://github.com/VictorBrasileiroo/WeatherWatch",
         "demo": "https://victorbrasileiroo.github.io/WeatherWatch/",
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-4/img.svg"
@@ -39,7 +96,16 @@
         "id": 5,
         "title": "Login Screen",
         "description": "Este é um projeto de uma tela de login simples e responsiva desenvolvida usando React, Tailwind CSS, Vite e Shadcn. A aplicação foi criada com o objetivo de fornecer uma interface de login elegante e eficiente para autenticação de usuários.",
-        "technologies": ["React", "Tailwind CSS"],
+        "technologies": [
+            {
+                "name": "React",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            },
+            {
+                "name": "Tailwind CSS",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+            }
+        ],
         "github": "https://github.com/VictorBrasileiroo/LoginScreen",
         "demo": "https://victorbrasileiroo.github.io/LoginScreen/",
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-5/img.svg"
