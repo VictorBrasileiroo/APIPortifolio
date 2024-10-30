@@ -27,6 +27,36 @@
     },
     {
         "id": 2,
+        "title": "Meu Portifólio 2.o",
+        "description": "Este é um projeto de uma tela de login simples e responsiva desenvolvida usando React, Tailwind CSS, Vite e Shadcn. A aplicação foi criada com o objetivo de fornecer uma interface de login elegante e eficiente para autenticação de usuários.",
+        "technologies": [
+            {
+                "name": "React",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+            },
+            {
+                "name": "Node.js",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+            },
+            {
+                "name": "Express",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+            },
+            {
+                "name": "Sass",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+            },
+            {
+                "name": "Figma",
+                "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"
+            }
+        ],
+        "github": "https://github.com/VictorBrasileiroo/MyPortifolio2.0",
+        "demo": "https://victorbrasileiroo.github.io/MyPortifolio2.0/",
+        "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-6/img.svg"
+    },
+    {
+        "id": 3,
         "title": "My Portifolio 1.0",
         "description": "Esse Projeto é um portfólio pessoal e foi desenvolvido em React, utilizando Sass para uma estilização modular e eficiente, com o design previamente planejado no Figma. A estrutura do projeto é baseada nos principais pilares da web: HTML, CSS e JavaScript, garantindo uma interface moderna, responsiva e de fácil navegação, com foco na apresentação de habilidades e projetos de forma dinâmica e atraente.",
         "technologies": [
@@ -52,7 +82,7 @@
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-2/img.svg"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "FitFinder",
         "description": "FitFinder é uma aplicação web projetada para facilitar a busca por exercícios físicos. Através da integração com uma API de exercícios, ela oferece uma lista personalizada de atividades com base nos filtros selecionados pelo usuário, garantindo uma experiência de pesquisa eficiente e direcionada às suas necessidades.",
         "technologies": [
@@ -71,7 +101,7 @@
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-3/img.svg"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Weather Watch",
         "description": "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições, promises, AJAX e Axios, entre outros. Desenvolvido exclusivamente para fins educativos, visa proporcionar uma compreensão prática e aplicada dessas ferramentas e técnicas.",
         "technologies": [
@@ -93,7 +123,7 @@
         "image": "https://raw.githubusercontent.com/VictorBrasileiroo/APIPortifolio/main/assets/id-4/img.svg"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Login Screen",
         "description": "Este é um projeto de uma tela de login simples e responsiva desenvolvida usando React, Tailwind CSS, Vite e Shadcn. A aplicação foi criada com o objetivo de fornecer uma interface de login elegante e eficiente para autenticação de usuários.",
         "technologies": [
